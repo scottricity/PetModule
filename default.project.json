@@ -1,0 +1,15 @@
+{
+  "name": "PetModule",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "PetModule": {
+        "$path": "PetModule"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "test"
+    }
+  }
+}
